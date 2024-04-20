@@ -3,7 +3,8 @@ title: "FUYAO: DPU-enabled Direct Data Transfer for Serverless Computing"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about fast data tranfer in serverless computing using dpu and rdma.'
-venue: 'Journel 1'
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 date: 2024-03-05
 citation: 'Guowei Liu, Laiping Zhao, Yiming Li, Zhaolin Duan, Sheng Chen, Yitao Hu, Zhiyuan Su, Wenyu Qu. FUYAO: DPU-enabled Direct Data Transfer for Serverless Computing. ASPLOS\'24'
 ---
