@@ -22,7 +22,7 @@ repository               : "duanzhaol/duanzhaol.github.io"
 author:
   # Biographic information
   avatar           : "head.png"
-  name             : "Zhaolin Duan"
+  name             : "Zhaolin Duan（段兆麟）"
   pronouns         : # example: "she/her"  
   bio              : "762842077@qq.com"
   location         : "Tianjin,China"
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/duanzhaol"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
