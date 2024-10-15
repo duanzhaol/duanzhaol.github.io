@@ -15,3 +15,11 @@ I was advised by [Prof. Laiping Zhao](http://www.clouduv.cn) from [College of In
    *Authors:* Guowei Liu, Laiping Zhao, Yiming Li, **Zhaolin Duan**, Sheng Chen, Yitao Hu, Zhiyuan Su, Wenyu Qu.<br>
    *Conference:* ASPLOS 2024.  
    [[paper](https://dl.acm.org/doi/abs/10.1145/3620666.3651327)][[code](https://github.com/guoweiu/Fuyao)]
+2. **Photia: Cross-Layer Cache Optimization for Function Startup in Serverless Computing**  
+   *Authors:*  **Zhaolin Duan**, Yanan Yang, Laiping Zhao.<br>
+   *Conference:* HPCC 2024.  
+   [[paper]()][[code]()]
+3. **Strong Session Serializability for Serverless Computing**  
+   *Authors:*  Yinghao Zhao, Zhaolin Duan, Shihao Wu, Yanan Yang, Guowei Liu, Laiping Zhao.<br>
+   *Conference:* HPCC 2024.  
+   [[paper]()][[code]()]
