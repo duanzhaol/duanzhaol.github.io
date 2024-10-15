@@ -20,6 +20,6 @@ I was advised by [Prof. Laiping Zhao](http://www.clouduv.cn) from [College of In
    *Conference:* HPCC 2024.  
    [[paper]()][[code]()]
 3. **Strong Session Serializability for Serverless Computing**  
-   *Authors:*  Yinghao Zhao, Zhaolin Duan, Shihao Wu, Yanan Yang, Guowei Liu, Laiping Zhao.<br>
+   *Authors:*  Yinghao Zhao, **Zhaolin Duan**, Shihao Wu, Yanan Yang, Guowei Liu, Laiping Zhao.<br>
    *Conference:* HPCC 2024.  
    [[paper]()][[code]()]
