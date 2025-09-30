@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a first year PHD student at Tianjin University. My research focuses on Serverless and AI Infra.
 
-I am advised by [Prof. Laiping Zhao](http://www.clouduv.cn) from [College of Intellegence and Computing](http://cic.tju.edu.cn), Tianjin University. I hold an M.S. from Tianjin University and a B.S. from Sichuan University.
+I am advised by [Prof. Laiping Zhao](https://clouduv.cn) in the [TankSys](https://clouduv.cn/people/) group at Tianjin University. I received my M.S. from Tianjin University and B.S. from Sichuan University.
 
 
 # Publication
