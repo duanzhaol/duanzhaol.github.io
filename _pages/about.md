@@ -12,6 +12,10 @@ I am advised by [Prof. Laiping Zhao](https://clouduv.cn) in the [TankSys](https:
 
 
 # Publication
+1. **Symbiotic MLLM Serving: Dynamically Balancing Parallelism Across GPUs and Resources Within GPUs**  
+   *Authors:*  Zhicheng Li, Yangyu zhang, **Zhaolin Duan**, Jiacheng Zhao, Xinyu Liu, Siqi Li, Shuoming Zhang, Shuaijiang Li, Donglin Yu, Yuan Wen, Chunwei Xia, Xiyu Shi, Huimin Cui.<br>
+   *Conference:* ISCA 2026.  
+   [[paper]()][[code]()]
 1. **μShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs**  
    *Authors:*  Wenhao Huang, **Zhaolin Duan**, Laiping Zhao, Yuhao Zhang, Yanjie Wang, Yiming Li, Yihan Wang, Yichi Chen, Zhihang Tang, Kang Chen, Deze Zeng, Wenxin Li, Keqiu Li.<br>
    *Conference:* HPCA 2026.  
