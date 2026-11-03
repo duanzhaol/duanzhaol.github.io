@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a first-year Ph.D. student at Tianjin University, advised by [Prof. Laiping Zhao](https://clouduv.cn) in the [TankSys](https://clouduv.cn/people/) group. I am also an intern at [Shenzhen Loop Area Institute (SLAI)](https://www.slai.edu.cn). I received my M.S. from Tianjin University and B.S. from Sichuan University.
 
-I study the systems that decide whether a new AI workload is practical: how computation is scheduled, how data moves, and how scarce hardware is shared among many tenants. That question has carried me from serverless computing, through LLM serving on tightly shared GPUs, to embodied infrastructure, where a model must meet the physical world's deadlines. What I am after is less the tuning of any single workload than the design principles that still hold when the workload changes.
+My research lies in systems for AI, spanning serverless computing, LLM serving, and embodied infrastructure.
 
 
 # Publication
