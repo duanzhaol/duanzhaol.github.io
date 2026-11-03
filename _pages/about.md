@@ -14,27 +14,22 @@ My research lies in systems for AI, spanning serverless computing, LLM serving, 
 # Publication
 1. **μShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs**  
    *Authors:*  Wenhao Huang, **Zhaolin Duan**, Laiping Zhao, Yuhao Zhang, Yanjie Wang, Yiming Li, Yihan Wang, Yichi Chen, Zhihang Tang, Kang Chen, Deze Zeng, Wenxin Li, Keqiu Li.<br>
-   *Conference:* HPCA 2026.  
-   [[paper]()][[code]()]
+   *Conference:* HPCA 2026.
 2. **Tandem: Unlocking Copy Engines for Reduction Collectives**  
    *Authors:*  Yuhang Zhang, Laiping Zhao, **Zhaolin Duan**, Yiming Li, Fupeng Li, Sheng Chen, Zhibin Yu, Keqiu Li.<br>
-   *Conference:* HPCA 2027.  
-   [[paper]()][[code]()]
+   *Conference:* HPCA 2027.
 3. **Symbiotic MLLM Serving: Dynamically Balancing Parallelism Across GPUs and Resources Within GPUs**  
    *Authors:*  Zhicheng Li, Yangyu zhang, **Zhaolin Duan**, Jiacheng Zhao, Xinyu Liu, Siqi Li, Shuoming Zhang, Shuaijiang Li, Donglin Yu, Yuan Wen, Chunwei Xia, Xiyu Shi, Huimin Cui.<br>
-   *Conference:* ISCA 2026.  
-   [[paper]()][[code]()]
+   *Conference:* ISCA 2026.
 4. **iRoute: Local Routing Table-based Workflow Management in Serverless Computing**  
    *Authors:*  Yiming Li, Laiping Zhao, Zhiyuan Su, Guowei Liu, Wenhao Huang, Kang Chen, **Zhaolin Duan**, Jingjie Zong, Wenxin Li, Deze Zeng, Dong Zhang, Wenyu Qu.<br>
-   *Conference:* EuroSys 2026.  
-   [[paper]()][[code]()]
+   *Conference:* EuroSys 2026.
 5. **FUYAO: DPU-enabled Direct Data Transfer for Serverless Computing**  
    *Authors:* Guowei Liu, Laiping Zhao, Yiming Li, **Zhaolin Duan**, Sheng Chen, Yitao Hu, Zhiyuan Su, Wenyu Qu.<br>
-   *Conference:* ASPLOS 2024.  
-   [[paper](https://dl.acm.org/doi/abs/10.1145/3620666.3651327)][[code](https://github.com/guoweiu/Fuyao)]
+   *Conference:* ASPLOS 2024.
 6. **Photia: Cross-Layer Cache Optimization for Function Startup in Serverless Computing**  
    *Authors:*  **Zhaolin Duan**, Yanan Yang, Laiping Zhao.<br>
-   *Conference:* HPCC 2024.  
+   *Conference:* HPCC 2024.
 7. **Strong Session Serializability for Serverless Computing**  
    *Authors:*  Yinghao Zhao, **Zhaolin Duan**, Shihao Wu, Yanan Yang, Guowei Liu, Laiping Zhao.<br>
-   *Conference:* HPCC 2024.  
+   *Conference:* HPCC 2024.
