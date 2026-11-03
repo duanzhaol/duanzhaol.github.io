@@ -1,7 +1,8 @@
 <!-- start custom analytics snippet -->
 {% if site.goatcounter.code and site.goatcounter.code != "" %}
 <!-- GoatCounter: cookie-free, privacy-friendly analytics. Raw IPs are never stored. -->
+<!-- count.js is self-hosted in assets/js/ so the site does not depend on the gc.zgo.at CDN. -->
 <script data-goatcounter="https://{{ site.goatcounter.code }}.goatcounter.com/count"
-        async src="https://gc.zgo.at/count.js"></script>
+        async src="{{ base_path }}/assets/js/goatcounter.js"></script>
 {% endif %}
 <!-- end custom analytics snippet -->
